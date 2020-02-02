@@ -31,4 +31,4 @@ Many of the older apartments and dorms still use radiatiors to heat the room. Th
 
 ## Project Code Description
 
-The code should be compiled and run on the Arduino Uno. It will display desired and current room temperature. If the current temp is above or below the desired temperature by 20 degrees Farenheit or if it exceeds either the upper or lowwer threshold the servo will move and switch the radiationr off or on.
+The code should be compiled and run on the Arduino Uno. It will display desired and current room temperature on the LCD. If the current temp is above or below the desired temperature by 20 degrees Farenheit or if it exceeds either the upper or lower threshold the servo will move and switch the radiator off or on. The occupant can adjust the desired Temp value by using the Up and Down buttons.
